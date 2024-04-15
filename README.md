@@ -9,6 +9,7 @@
 ![](https://komarev.com/ghpvc/?username=Benjababe)
 -->
 ![](https://komarev.com/ghpvc/?username=tej172)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tej172)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **tej172/tej172** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
