@@ -1,7 +1,7 @@
 ### Hi there 👋
 ##### Check out these cool stats:
 
-<div align="Center">
+<div align="Left">
 <p><p>
   <picture>
   <source
@@ -21,7 +21,7 @@
 -->
 
 
-<div align="Center">
+<div align="Left">
 <p><p>
   <picture>
   <source
@@ -32,7 +32,7 @@
   </picture>
 </div>
 
-<div align="Center">
+<div align="Left">
 <p><p>
   <picture>
   <source
