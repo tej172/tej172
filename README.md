@@ -1,8 +1,7 @@
 ### Hi there 👋
 ##### Check out these cool stats:
-[![GitHub Streak](https://streak-stats.demolab.com?user=tej172&theme=highcontrast&card_width=500)](https://git.io/streak-stats)
 
-<div align="Left">
+<div align="Center">
 <p><p>
   <picture>
   <source
@@ -13,12 +12,14 @@
   </picture>
 </div>
 <!--
+![](https://komarev.com/ghpvc/?username=tej172)
+[![GitHub Streak](https://streak-stats.demolab.com?user=tej172&theme=highcontrast&card_width=500)](https://git.io/streak-stats)
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=benjababe&count_private=true&show_icons=true&theme=dark)
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=tej172&count_private=true&show_icons=true&theme=dark)
 ![](https://komarev.com/ghpvc/?username=Benjababe)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tej172)](https://github.com/anuraghazra/github-readme-stats)
 -->
-<div align="Left">
+<div align="Center">
 <p><p>
   <picture>
   <source
@@ -28,9 +29,8 @@
   <img />
   </picture>
 </div>
-![](https://komarev.com/ghpvc/?username=tej172)
 
-<div align="Left">
+<div align="Center">
 <p><p>
   <picture>
   <source
