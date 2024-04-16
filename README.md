@@ -6,7 +6,7 @@
 <p><p>
   <picture>
   <source
-    srcset="[https://komarev.com/ghpvc/?username=tej172](https://streak-stats.demolab.com?user=tej172&theme=highcontrast&card_width=500)"
+    srcset="https://streak-stats.demolab.com?user=tej172&theme=highcontrast&card_width=500"
     media="(prefers-color-scheme: dark)"
   />
   <img />
