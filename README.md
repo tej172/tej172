@@ -19,11 +19,13 @@
 ![](https://komarev.com/ghpvc/?username=Benjababe)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tej172)](https://github.com/anuraghazra/github-readme-stats)
 -->
+
+
 <div align="Center">
 <p><p>
   <picture>
   <source
-    srcset="https://komarev.com/ghpvc/?username=tej172"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tej172&hide=Jupyter%20Notebook%2chtml&layout=compact&theme=dark#gh-dark-mode-only"
     media="(prefers-color-scheme: dark)"
   />
   <img />
@@ -34,7 +36,7 @@
 <p><p>
   <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tej172&hide=Jupyter%20Notebook%2chtml&layout=compact&theme=dark#gh-dark-mode-only"
+    srcset="https://komarev.com/ghpvc/?username=tej172"
     media="(prefers-color-scheme: dark)"
   />
   <img />
