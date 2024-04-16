@@ -15,11 +15,11 @@
 <p><p>
   <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tej172&hide=Jupyter%20Notebook%2chtml&layout=compact&theme=dark#gh-dark-mode-only"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tej172&layout=compact&theme=dark#gh-dark-mode-only"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tej172&hide=Jupyter%20Notebook%2chtml&layout=compact&theme=default#gh-light-mode-only"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tej172&layout=compact&theme=default#gh-light-mode-only"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img />
