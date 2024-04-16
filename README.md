@@ -2,25 +2,40 @@
 ##### Check out these cool stats:
 [![GitHub Streak](https://streak-stats.demolab.com?user=tej172&theme=highcontrast&card_width=500)](https://git.io/streak-stats)
 
-
+<div align="Left">
+<p><p>
+  <picture>
+  <source
+    srcset="[https://komarev.com/ghpvc/?username=tej172](https://streak-stats.demolab.com?user=tej172&theme=highcontrast&card_width=500)"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img />
+  </picture>
+</div>
 <!--
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=benjababe&count_private=true&show_icons=true&theme=dark)
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=tej172&count_private=true&show_icons=true&theme=dark)
 ![](https://komarev.com/ghpvc/?username=Benjababe)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tej172)](https://github.com/anuraghazra/github-readme-stats)
 -->
-![](https://komarev.com/ghpvc/?username=tej172)
-
-<div align="center">
+<div align="Left">
 <p><p>
   <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tej172&layout=compact&theme=dark#gh-dark-mode-only"
+    srcset="https://komarev.com/ghpvc/?username=tej172"
     media="(prefers-color-scheme: dark)"
   />
+  <img />
+  </picture>
+</div>
+![](https://komarev.com/ghpvc/?username=tej172)
+
+<div align="Left">
+<p><p>
+  <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tej172&layout=compact&theme=default#gh-light-mode-only"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tej172&hide=Jupyter%20Notebook%2chtml&layout=compact&theme=dark#gh-dark-mode-only"
+    media="(prefers-color-scheme: dark)"
   />
   <img />
   </picture>
